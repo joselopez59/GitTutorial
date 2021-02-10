@@ -1,3 +1,3 @@
-##GitHub Tutorial
+# GitHub Tutorial
 
 License: MIT
